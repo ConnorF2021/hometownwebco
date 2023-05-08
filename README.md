@@ -1,2 +1,3 @@
-# hometownwebco
-Hometown Web Co Main
+# Hometown Web Co
+
+Main Repository for all development
