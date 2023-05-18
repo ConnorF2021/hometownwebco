@@ -1,0 +1,40 @@
+<project>
+    <documents></documents>
+    <dmdesigns>
+        <dmdesign>
+            <dmdesignskill skill="bs5.colors" harmony="">
+                <dmcolor key="primary" color="rgb(99,70,184)"/>
+                <dmcolor key="secondary" color="rgb(28,20,52)"/>
+                <dmcolor key="info" color="rgb(223,160,151)"/>
+                <dmcolor key="success" color="#198754"/>
+                <dmcolor key="warning" color="#ffc107"/>
+                <dmcolor key="danger" color="#dc3545"/>
+                <dmcolor key="white" color="white"/>
+                <dmcolor key="light" color="#f8f9fa"/>
+                <dmcolor key="dark" color="#212529"/>
+            </dmdesignskill>
+            <dmdesignskill skill="fonts" text_weight="300" text_color="" text_spacing="" text_effect="" text_italic="" text_smallcaps="" text_uppercase="" headings_weight="" headings_color="" headings_spacing="" headings_effect="" headings_italic="" headings_smallcaps="" headings_uppercase="" text_family="Ubuntu" headings_family="IBM Plex Serif"></dmdesignskill>
+            <dmdesignskill skill="headings"></dmdesignskill>
+            <dmdesignskill skill="background" image_for_colors="true" keyword="patterns" selector=".poster" image="https://images.unsplash.com/photo-1618088129969-bcb0c051985e?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDIwNXx8cGF0dGVybnN8ZW58MHx8fHwxNjMyODUyMzA0&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=1200&fit=max"></dmdesignskill>
+            <dmdesignskill skill="bootstrap" gradients="" responsive_fonts="1" roundness="2" buttonRoundness="1" shadows="1" contrast="1"></dmdesignskill>
+        </dmdesign>
+        <dmdesign active>
+            <dmdesignskill skill="bs5.colors" harmony="">
+                <dmcolor key="primary" color="rgb(252,11,63)"/>
+                <dmcolor key="secondary" color="rgb(130,1,29)"/>
+                <dmcolor key="info" color="rgb(252,124,164)"/>
+                <dmcolor key="success" color="#198754"/>
+                <dmcolor key="warning" color="#ffc107"/>
+                <dmcolor key="danger" color="#dc3545"/>
+                <dmcolor key="white" color="white"/>
+                <dmcolor key="light" color="#f8f9fa"/>
+                <dmcolor key="dark" color="#212529"/>
+            </dmdesignskill>
+            <dmdesignskill skill="fonts" text_weight="" text_color="" text_spacing="" text_effect="" text_italic="" text_smallcaps="" text_uppercase="" headings_weight="" headings_color="" headings_spacing="" headings_effect="" headings_italic="" headings_smallcaps="" headings_uppercase="" text_family="Ubuntu" headings_family="IBM Plex Serif"></dmdesignskill>
+            <dmdesignskill skill="headings"></dmdesignskill>
+            <dmdesignskill skill="background" image_for_colors keyword="patterns" selector=".poster" image="https://images.unsplash.com/photo-1604076850742-4c7221f3101b?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDIwNXx8cGF0dGVybnN8ZW58MHx8fHwxNjMyODUyMzA0&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=1200&fit=max"></dmdesignskill>
+            <dmdesignskill skill="bootstrap" gradients="" responsive_fonts="1" roundness="2" buttonRoundness="1" shadows="1" contrast="0"></dmdesignskill>
+        </dmdesign>
+    </dmdesigns>
+    <dmlocked bs5-colors-primary="false" bs5-colors-secondary="false" bs5-colors-info="false" bs5-colors-success="true" bs5-colors-warning="true" bs5-colors-danger="true" bs5-colors-white="true" bs5-colors-light="true" bs5-colors-dark="true" fonts-text_family="false" fonts-headings_family="false" bs5-colors-button-from_image="false" headings-h1_family="true" bootstrap-buttonRoundness="true" bootstrap-shadows="true" bootstrap-roundness="true" bootstrap-gradients="true" background-image="false" background-color="true"></dmlocked>
+</project>
