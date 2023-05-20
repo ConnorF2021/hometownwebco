@@ -11,3 +11,8 @@ body.poster {
 .top-5 {
     top: 5px;
 }
+
+.logo-icon {
+    height: 10vh;
+    width: 10vh;
+}
